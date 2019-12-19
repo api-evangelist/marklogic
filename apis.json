@@ -1,0 +1,70 @@
+{
+    "name": "MarkLogic",
+    "description": "MarkLogic provides enterprise solutions for your business by enabling operational big data applications with NoSQL databases and data integration.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20018-marklogic.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "databases",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/marklogic\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MarkLogic",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20018-marklogic.jpg",
+            "humanURL": "http:\/\/www.marklogic.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/marklogic-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/developer.marklogic.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/developer.marklogic.com\/blog\/atom.xml?feed=blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/marklogic"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.marklogic.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "legal@marklogic.com"
+        },
+        {
+            "type": "Email",
+            "url": "web@marklogic.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/marklogic"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/marklogic"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.marklogic.com\/"
+        }
+    ]
+}
